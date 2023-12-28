@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CycleSync</string>
+    <string name="open">Open navigation drawer</string>
+    <string name="close">Close navigation drawer</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+
+    <string name="text_diary_date">Today is:</string>
+    <string name="text_diary">How are you feeling?</string>
+
+    <string name="text_show_diary">Select a date to view diary</string>
+
+    <string name="ovulation_text">Next ovulation in</string>
+    <string name="period_text">Next period in</string>
+    <string name="log_period">Log period</string>
+
+    <string name="text_period_date">What was your last period start date?</string>
+    <string name="text_cycle_length">Usual cycle length: </string>
+</resources>
